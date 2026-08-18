@@ -7,7 +7,7 @@ Welcome to my course blog for **NM4259 Mobile Interaction Design**.
 
 ## Introduction
 
-Hi, I’m a student taking NM4259 this semester. I’m excited to explore how mobile interactions can be designed to be intuitive, inclusive, and engaging for users in real-world contexts.
+Hi, I’m Xinping, a Computer Science major taking NM4259 this semester. I’m excited to explore how mobile interactions can be designed to be intuitive, inclusive, and engaging for users in real-world contexts.
 
 ## What I Hope to Take Away
 
